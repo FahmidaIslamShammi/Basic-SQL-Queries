@@ -1,4 +1,4 @@
-# Basic-SQL-Queries\
+# Basic-SQL-Queries
 
 ## Technology Used:
 *Xampp
@@ -26,7 +26,7 @@ e) First Name: Clemmie Last Name: Betchley Date of Birth: 1973-11-07 Phone: Addr
 9. Change the 'Date of Birth' column name into 'dob'.
 10. Find the max point holder customer name.
 11. Execute a query for the following scenario.
-If customers have points less than 1000, they are bronze member.
-If customers have points more than 1000 and less than 2000, they are silver member.
-If customers have points more than 2000 and less than 3000, they are gold member.
-If customers have points more than 3000, they are platinum member.
+a) If customers have points less than 1000, they are bronze member.
+b) If customers have points more than 1000 and less than 2000, they are silver member.
+c) If customers have points more than 2000 and less than 3000, they are gold member.
+d) If customers have points more than 3000, they are platinum member.
