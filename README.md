@@ -1,8 +1,8 @@
 # Basic-SQL-Queries
 
 ## Technology Used:
-*Xampp
-*SQLyog
+- Xampp
+- SQLyog
 
 ## Queries Executed Based On:
 1. Create a database named database_assignment.
